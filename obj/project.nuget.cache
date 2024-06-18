@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WbpeAF0pzZESqvvE+jFwxT8w+iweGnGLvRBkO5N0HnmLCoaHvelT5batnLpM1U9wtJoDsBLtwEYw4Qx7Dtusw==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Lama_Onnx_Inference_AnySize\\Lama_Onnx_Inference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramwsh\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.18.0\\microsoft.ml.onnxruntime.1.18.0.nupkg.sha512",
+    "C:\\Users\\Ramwsh\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.18.0\\microsoft.ml.onnxruntime.managed.1.18.0.nupkg.sha512",
+    "C:\\Users\\Ramwsh\\.nuget\\packages\\opencvsharp4\\4.5.5.20211231\\opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\Ramwsh\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.5.20211231\\opencvsharp4.runtime.win.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\Ramwsh\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Ramwsh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

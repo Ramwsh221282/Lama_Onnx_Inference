@@ -1,0 +1,14 @@
+D:\Development\Lama_Onnx_Inference\bin\Debug\net8.0\Lama_Onnx_Inference.exe
+D:\Development\Lama_Onnx_Inference\bin\Debug\net8.0\Lama_Onnx_Inference.deps.json
+D:\Development\Lama_Onnx_Inference\bin\Debug\net8.0\Lama_Onnx_Inference.runtimeconfig.json
+D:\Development\Lama_Onnx_Inference\bin\Debug\net8.0\Lama_Onnx_Inference.dll
+D:\Development\Lama_Onnx_Inference\bin\Debug\net8.0\Lama_Onnx_Inference.pdb
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.AssemblyInfoInputs.cache
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.AssemblyInfo.cs
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.csproj.CoreCompileInputs.cache
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.dll
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\refint\Lama_Onnx_Inference.dll
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.pdb
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\Lama_Onnx_Inference.genruntimeconfig.cache
+D:\Development\Lama_Onnx_Inference\obj\Debug\net8.0\ref\Lama_Onnx_Inference.dll

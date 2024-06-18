@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lama_Onnx_Inference", "Lama_Onnx_Inference.csproj", "{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Debug|x64.ActiveCfg = Debug|x64
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Debug|x64.Build.0 = Debug|x64
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Release|x64.ActiveCfg = Release|x64
+		{FF5FC2C1-317B-4681-B1DA-71A71AF8051E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF606BC-67C9-4F0D-A2B6-CF72D34DA28D}
+	EndGlobalSection
+EndGlobal
